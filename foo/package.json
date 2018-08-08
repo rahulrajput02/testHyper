@@ -1,0 +1,32 @@
+{
+  "name": "foo",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "asyncawait": "^1.0.7",
+    "b64-to-blob": "^1.2.19",
+    "blob": "0.0.4",
+    "blob-util": "^2.0.2",
+    "body-parser": "^1.18.3",
+    "co": "^4.6.0",
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.4",
+    "cryptr": "^4.0.0",
+    "debug": "~2.6.9",
+    "ejs": "~2.5.7",
+    "express": "~4.16.0",
+    "handlebars": "^4.0.11",
+    "html-pdf": "^2.2.0",
+    "http-errors": "~1.6.2",
+    "moment": "^2.22.2",
+    "morgan": "~1.9.0",
+    "mysql": "^2.15.0",
+    "phantomjs-prebuilt": "^2.1.16",
+    "sha256": "^0.2.0",
+    "stream-to-blob": "^1.0.1",
+    "thunkify": "^2.1.2"
+  }
+}
